@@ -31,9 +31,9 @@ Per Bootcamp Spot Website:
 
 I first aimed to get the number of CitiBike rides for my chosen date range (Oct 2024 - Dec 2024). Member riders comprised the large majority of bike rentals vs Casual riders -- 9.24 million vs 1.88 million, respectively.
 
-It became immediately obvious that the number of bike rentals dropped significantly as the months progressed and the season changed from autumn to winter.
+It became immediately obvious that the number of bike rentals dropped significantly as the months progressed.
 
-The number of rides remained steady through the month of October but declined in November, with a sharp drop on the 21st of the month. In total, there were 1,436,021 less rides in November from October.
+The number of rides remained steady through the month of October but declined in November, with a sharp drop on the 21st of the month. In total, there were 1,436,021 less rides in November than in October.
 
 The decline continued in December, with 1,393,567 less rides than November. The sharp decline can be attributed to colder temperatures as the season transitioned from autumn to winter. The average temperature in October was in the 60 degree (Fahrenheit) range. By December, the average temperature was in the 30s-40s.
 
